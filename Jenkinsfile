@@ -14,7 +14,7 @@ pipeline{
             KeepAll:false,
             reportDir:'.'
             reportFiles:'sample.html',
-            reportName;'MY HTML PAGE'
+            reportName:'MY HTML PAGE'
             ])
       }
   }
